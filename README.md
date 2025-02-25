@@ -1,28 +1,7 @@
-# The Orbinuity Company
+# The Orbinuity Company Github Page
 
-### [Orbinuity Website](https://orbinuity.github.io/Orbinuity/)
+README for github page
 
-
-## Our top 3 projects
-
-### 3 [NmapSpam](https://github.com/Orbinuity/NmapSpam)
-
-### 2 [WebPeeking](https://github.com/Orbinuity/WebPeeking)
-
-### 1 [NuclearPowerPlantSimulator](https://github.com/Orbinuity/NuclearPowerPlantSimulator)
-
-
-## Our top 3 projects we are working on
-
-### 3 [BetterCropy](https://github.com/Orbinuity/BetterCropy)
-
-### 2 [MellowVPN](https://github.com/Orbinuity/MellowVPN)
-
-### 1 [PowerPlan](https://github.com/Orbinuity/PowerPlan)
-
-
-## Our members
+## Made by
 
 Head: [Flurop](https://github.com/Flurop)
-
-Member: [FloxKcah](https://github.com/FloxKcah)
