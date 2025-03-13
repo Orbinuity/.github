@@ -1,0 +1,54 @@
+#!/bin/bash
+
+# Get the script's absolute path
+script_path="$(realpath "$0")"
+
+# Get the script's directory
+script_dir="$(dirname "$script_path")"
+
+# Function to process files recursively
+process_files() {
+    local dir="$1"
+    
+    for file in "$dir"/{.,}*; do
+        if [ -f "$file" ]; then
+            # Exclude the script itself
+            if [ "$file" != "$script_path" ]; then
+                echo "Processing file: ${file:${#script_dir}}"
+                what="ERROR"
+                do=true
+                if git ls-files --error-unmatch "$file" > /dev/null 2>&1; then
+                    if git diff --quiet "$file"; then
+                        echo "Skiping $(basename "$file")"
+                        do=false
+                    else
+                        what="Updated"
+                    fi
+                else
+                    what="Added"
+                fi
+                if [ "$do" == "true" ]; then
+                    git add -f "$file"
+               	    git commit -m "${what} $(basename "$file")" > /dev/null 2>&1
+                    git push -u origin main > /dev/null 2>&1
+                    echo "${what} $(basename "$file")"
+                fi
+            fi
+        elif [ -d "$file" ]; then
+            if [[ "$(basename "$file")" == ".git" ]]; then
+                echo "Skipping directory: $file"
+                continue
+            fi
+
+            process_files "$file"
+        fi
+    done
+}
+
+if [ "$1" == "-r" ] || [ "$1" == "--remove" ]; then
+    git rm "$2"
+    git commit -m "removed $(basename "$2")" > /dev/null 2>&1
+    git push -u origin main > /dev/null 2>&1
+else
+    process_files "$script_dir"
+fi
