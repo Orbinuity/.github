@@ -5,20 +5,20 @@
 
 ## Our top 3 projects
 
-### 3 [NmapSpam](https://github.com/Orbinuity/NmapSpam)
+### 1 [Nuclear Power Plant Simulator](https://github.com/Orbinuity/NuclearPowerPlantSimulator)
 
-### 2 [WebPeeking](https://github.com/Orbinuity/WebPeeking)
+### 2 [obj Renderer](https://github.com/Orbinuity/objRenderer)
 
-### 1 [NuclearPowerPlantSimulator](https://github.com/Orbinuity/NuclearPowerPlantSimulator)
+### 3 [Math AI](https://github.com/Orbinuity/WebPeeking)
 
 
 ## Our top 3 projects we are working on
 
-### 3 [null](https://github.com/Orbinuity/null)
+### 1 [Power Plan](https://github.com/Orbinuity/PowerPlan)
 
-### 2 [BetterCropy](https://github.com/Orbinuity/BetterCropy)
+### 2 [What The Frick](https://github.com/Orbinuity/WhatTheFrick)
 
-### 1 [PowerPlan](https://github.com/Orbinuity/PowerPlan)
+### 3 [Better Cropy](https://github.com/Orbinuity/BetterCropy)
 
 
 ## Our members
