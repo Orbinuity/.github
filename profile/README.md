@@ -1,4 +1,6 @@
-# The Orbinuity Company
+# Welcome to Orbinuity!
+
+### <span style="color: red;">Please note that some pages have bean renamed if a page does not work pleas report <a href="https://github.com/Orbinuity/Orbinuity.github.io/issues">here</a>, thanks for understanding.</span>
 
 ### [Orbinuity Website](https://orbinuity.github.io/Orbinuity/)
 
