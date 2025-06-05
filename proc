@@ -30,7 +30,6 @@ process_files() {
                 if [ "$do" == "true" ]; then
                     git add -f "$file"
                	    git commit -m "${what} $(basename "$file")" > /dev/null 2>&1
-                    git push -u origin main > /dev/null 2>&1
                     echo "${what} $(basename "$file")"
                 fi
             fi
@@ -48,7 +47,10 @@ process_files() {
 if [ "$1" == "-r" ] || [ "$1" == "--remove" ]; then
     git rm "$2"
     git commit -m "removed $(basename "$2")" > /dev/null 2>&1
-    git push -u origin main > /dev/null 2>&1
 else
     process_files "$script_dir"
 fi
+
+git push -u origin main > /dev/null 2>&1
+
+echo DONE
