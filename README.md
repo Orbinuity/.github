@@ -1,6 +1,10 @@
-# The Orbinuity Company Github Page
+# Orbinuity .github repo
 
-[<img alt="Status" src="https://raw.githubusercontent.com/Orbinuity/.github/main/status/stable.png" width="100" height="25">](https://orbinuity.github.io/statusIcons.html)
+[![License](https://img.shields.io/github/license/Orbinuity/.github)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Orbinuity/.github)](https://github.com/Orbinuity/.github/commits)
+[![Made By](https://img.shields.io/badge/Made%20by-Orbinuity-teal)](https://orbinuity.github.io/)
+
+[![Usage](https://img.shields.io/badge/How%20to%20use-brown)](./USAGE.md)
 
 README for github page
 
