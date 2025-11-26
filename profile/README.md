@@ -1,26 +1,26 @@
 # Welcome to Orbinuity!
 
-### <span style="color: red;">Please note that some pages have bean renamed if a page does not work pleas report <a href="https://github.com/Orbinuity/Orbinuity.github.io/issues">here</a>, thanks for understanding.</span>
+### [Website](https://orbinuity.github.io/)
 
-### [Orbinuity Website](https://orbinuity.github.io/)
+### [Help Website](https://help.orbinuity.nl)
 
 
 ## Our top 3 projects
 
-### 1 [Nuclear Power Plant Simulator](https://orbinuity.github.io/NuclearPowerPlantSimulator/ProjectPage)
+### 1 [Nuclear Power Plant Simulator](https://orbinuity.github.io/project/NuclearPowerPlantSimulator)
 
-### 2 [obj Renderer](https://orbinuity.github.io/objRenderer/ProjectPage)
+### 2 [GlassMinecraft](https://orbinuity.github.io/project/GlassMinecraft)
 
-### 3 [Math AI](https://orbinuity.github.io/MathAI/ProjectPage)
+### 3 [obj Renderer](https://orbinuity.github.io/project/objRenderer)
 
 
 ## Our top 3 projects we are working on
 
-### 1 [Power Plan](https://orbinuity.github.io/PowerPlan/ProjectPage)
+### 1 [Museay](https://orbinuity.github.io/project/Museay)
 
-### 2 [What The Frick](https://orbinuity.github.io/WhatTheFrick/ProjectPage)
+### 2 [Monx2](https://orbinuity.github.io/project/Monx2)
 
-### 3 [Better Cropy](https://orbinuity.github.io/BetterCropy/ProjectPage)
+### 3 [OWE](https://orbinuity.github.io/project/OWE)
 
 
 ## Our members
