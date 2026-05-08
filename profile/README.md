@@ -15,17 +15,17 @@
 
 Check out some of the best projects we've fully released!
 
-1. ☢️ **[Nuclear Power Plant Simulator](https://orbinuity.nl/project#NuclearPowerPlantSimulator)** *A full simulator for managing and operating a nuclear power plant.*
-2. 🏹 **[Dispenser Spear](https://orbinuity.nl/project#DispenserSpear)** *A Java Minecraft mod that allows dispensers to use spears like weapons!*
-3. 🧊 **[obj Renderer](https://orbinuity.nl/project#objRenderer)** *A Python script that lets you spin and move 3D `.obj` files right in your terminal.*
+1. ☢️ **[Nuclear Power Plant Simulator](https://orbinuity.nl/project#NuclearPowerPlantSimulator)** *An nuclear power plant simulator*
+2. 🏹 **[Dispenser Spear](https://orbinuity.nl/project#DispenserSpear)** *Make dispensers use spears like a weapon!*
+3. 📺 **[Billboard Show](https://orbinuity.nl/project#BillboardShow)** *Make very simple Billboards or Info boards!*
 
 ## 🛠️ What We Are Working On
 
 Here is a sneak peek at our top 3 active developments:
 
-* 🪟 **[Glass Minecraft](https://orbinuity.nl/project#GlassMinecraft)** - *A custom Minecraft mod loader.*
-* 🎵 **[Museay](https://orbinuity.nl/project#Museay)** - *A Python-based music player.*
-* 🌐 **[Web Peeking](https://orbinuity.nl/project#WebPeeking)** - *An upcoming web utility.*
+* 🪟 **[Glass Minecraft](https://orbinuity.nl/project#GlassMinecraft)** - *A minecraft mod loader*
+* 📱 **[Orbo](https://orbinuity.nl/project#Orbo)** - *A way to be together!*
+* 🎵 **[Museay](https://orbinuity.nl/project#Museay)** - *A music player*
 
 ---
 ## 🛠️ Languages & Tools
