@@ -1,6 +1,6 @@
 # Hello, we are Orbinuity!
 
-> **A small tech company | We support: https://keepandroidopen.org/**
+> **A small tech company**
 
 [![Website](https://img.shields.io/badge/Main_Website-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white)](https://orbinuity.nl)
 [![Help Site](https://img.shields.io/badge/Help_Site-%2300599C.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://help.orbinuity.nl)
