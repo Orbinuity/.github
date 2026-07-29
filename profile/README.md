@@ -4,7 +4,6 @@
 
 [![Website](https://img.shields.io/badge/Main_Website-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white)](https://orbinuity.nl)
 [![Help Site](https://img.shields.io/badge/Help_Site-%2300599C.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://help.orbinuity.nl)
-[![We Support](https://img.shields.io/badge/We_Support-%2300599C.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://orbinuity.nl/wesupport)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/Orbinuity)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Orbinuity)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Orbinuity)
